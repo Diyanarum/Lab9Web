@@ -79,5 +79,16 @@ Untuk membuatnya dibutuhkan kode berikut:
 
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
+## HASIL RUN PADA HALAMAN HOME
+
+![menambahkan_gambar](img/TUGAS%20HOME.png)
+
+## HASIL RUN PADA HALAMAN TAMBAH BARANG
+
+![menambahkan_gambar](img/TUGAS%20TAMBAH.png)
+
+## HASIL RUN PADA HALAMAN UBAH BARANG
+
+![menambahkan_gambar](img/TUGAS%20UBAH.png)
 
 # <P align="center"> THANK'S FOR YOUR ATTENTION!! SEE YOU!!

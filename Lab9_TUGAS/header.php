@@ -9,10 +9,9 @@ media="screen" />
 <body>
     <div class="container">
         <header>
-            <h1>Nice to meet you!!</h1>
+            <h1>DATABASE</h1>
         </header>
         <nav>
             <a href="home.php">Home</a>
-            <a href="about.php">About</a>
-            <a href="kontak.php">Contact</a>
+            <a href="about.php">Tambah Barang</a>
         </nav>
