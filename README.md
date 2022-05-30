@@ -77,8 +77,7 @@ Untuk membuatnya dibutuhkan kode berikut:
 
 # PERTANYAAN DAN TUGAS
 
-Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
-database, sehingga setiap halamannya memiliki template tampilan yang sama.
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 
 # <P align="center"> THANK'S FOR YOUR ATTENTION!! SEE YOU!!
